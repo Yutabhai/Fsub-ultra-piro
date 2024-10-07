@@ -26,7 +26,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "gamdu")
 
 # Force sub channel id, if you want enable force sub
 FORCE_CHANNEL = int(os.environ.get("FORCE_CHANNEL", "-1002173795861"))
-FORCE_CHANNEL2 = int(os.environ.get("FORCE_CHANNEL2", "-1002014057951"))
+FORCE_CHANNEL2 = int(os.environ.get("FORCE_CHANNEL2", "-1002044619047"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
